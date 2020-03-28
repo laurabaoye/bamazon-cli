@@ -1,0 +1,18 @@
+homework setup
+--------------
+npm installs
+inquirer
+mysql
+npm install cli-table
+
+requirements
+--------------
+1. setup mysql database connection
+2. setup database table
+    -- 10 random products items
+    -- item_id product_name department_name price stock_quantity
+3. promp messages (inquirer)
+    -- view all products from DB
+    -- select item & update item from DB
+    -- if item is low, say "insufficient quantity"
+4. screenshots readme
